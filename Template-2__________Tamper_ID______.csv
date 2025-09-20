@@ -1,0 +1,4 @@
+,file,size,uuid_count,session_count,pid_count,pid_231,pid_31,excluded_flag,scan_mode,keyword_hits,tamper_hits
+2,/mnt/data/T2_SCAN_2025-06-08_partZIPs_recur/part3/part3.txt,52811406,96540,0,40,False,False,True,70,36369,24576.0
+0,/mnt/data/T2_SCAN_2025-06-08_partZIPs_recur/part1/part1.txt,64150208,126721,8,136,True,False,True,70,34240,15135.0
+1,/mnt/data/T2_SCAN_2025-06-08_partZIPs_recur/part2/part2.txt,103424487,188830,9,758,True,True,True,70,40710,
